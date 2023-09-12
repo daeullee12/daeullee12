@@ -49,4 +49,4 @@ Feel free to explore my repositories, leave comments, and get in touch. Together
 
 Happy coding!
 
-[![GitHub followers](https://img.shields.io/github/followers/yourusername?style=social)](https://github.com/yourusername)
+
